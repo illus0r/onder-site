@@ -8,6 +8,9 @@
 ---
 
 # 2021
+
+- ![No Photo](https://imgur.com/Iwe1nyJ.jpg) July. ONDER together with Assotsiatsiya "Np Sovet Rynka" was selected as one of the "Digital technologies" Federal project finalists in the "Information technology solutions" category. 
+
 - ![No Photo](https://imgur.com/Iwe1nyJ.jpg) April. ONDER team took part in a round table discussion "Smart Metering systems and data privacy protection for electrical power distribution" at the [Russian International Energy Forum](https://energyforum.ru/en/about). 
 
 
