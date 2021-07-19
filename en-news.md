@@ -13,6 +13,8 @@
 
 - ![No Photo](https://imgur.com/Iwe1nyJ.jpg) April. ONDER team took part in a round table discussion "Smart Metering systems and data privacy protection for electrical power distribution" at the [Russian International Energy Forum](https://energyforum.ru/en/about). 
 
+- ![No Photo](https://imgur.com/cda7ATn.jpg) January. ONDER presented in the CIGRE 2020 technical report "The Role of Blockchain Technologies in Energy Markets" as one of the most promising projects.
+
 
 
 # 2020
