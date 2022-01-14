@@ -1,0 +1,15 @@
+{% assign title = "Our long-term vision of a distributed energy" %}
+
+{% if page.lang == "ru" %}
+{% assign title = "Наше концептуальное видение энергетики будущего" %}
+{% endif %}
+
+<section class="main-content__block _margin energy_future">
+    <a id="future" class="anchor"></a>
+    <h2 class="block-heading energy_future__title">{{title}}</h2>
+    <div class="energy_future__video-wrapper">
+        <video class="energy_future__video" controls>
+            <source src="assets/video/ONDER_video.mp4" type="video/mp4">
+        </video>
+    </div>
+</section>

@@ -1,0 +1,38 @@
+@charset "utf-8";
+@import "fonts";
+@import "mixins";
+
+.energy_future {
+  margin: var(--block-margin-top) calc(var(--block-margin-right) / 2) 0 calc(var(--block-margin-left) / 2);
+  margin-top: calc(var(--floor-margin));
+  margin-bottom: var(--floor-margin);
+
+  &__video {
+    margin: auto;
+    width: 80%;
+
+    &-wrapper {
+      margin: 32px auto auto;
+      display: flex;
+      width: 100%;
+      justify-content: center;
+    }
+  }
+
+  @include l-tablet-and-less {
+    margin-top: calc(var(--floor-margin));
+
+    &__video {
+      width: 100%;
+      margin: auto;
+
+      &-wrapper {
+        margin: 16px auto auto;
+      }
+    }
+  }
+
+  &__title {
+    margin-left: 0;
+  }
+}
