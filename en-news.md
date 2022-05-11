@@ -8,7 +8,7 @@
 ---
 # 2022
 
-- ![No Photo](https://imgur.com/a/5mfd0Td.jpg) March. ONDER have launched a new joint project with SKM Market Predictor called [Carbon Zero](https://carbonzero.ru/) to help you understand everything related to green energy.
+- ![No Photo](https://imgur.com/gGcuiQZ.jpg) March. ONDER have launched a new joint project with SKM Market Predictor called [Carbon Zero](https://carbonzero.ru/) to help you understand everything related to green energy.
 
 
 
