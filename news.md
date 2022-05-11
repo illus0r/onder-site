@@ -10,7 +10,7 @@
 
 - ![No Photo](https://imgur.com/gGcuiQZ.jpg) Март. ONDER совместно с SKM Market Predictor запустил новый проект под назаванием [Carbon Zero](https://carbonzero.ru/), который поможет Вам разобраться со всем, что касается "зеленой" энергетики.
 
-- ![No Photo](https://imgur.com/o105cIt.jpg) Февраль. ONDER завершил разработку Системы управления электрозарядными станциями для ООО «Зеленодольский электротехнический завод». Мобильное приложение [Non Stop Power](https://www.youtube.com/watch?v=RoOMyhuYcNU), NSP уже доступно для  Android и IOS приложений.
+- ![No Photo](https://imgur.com/3pThoPw.jpg) Февраль. ONDER завершил разработку Системы управления электрозарядными станциями для ООО «Зеленодольский электротехнический завод». Мобильное приложение [Non Stop Power](https://www.youtube.com/watch?v=RoOMyhuYcNU), NSP уже доступно для  Android и IOS приложений.
 
 
 
