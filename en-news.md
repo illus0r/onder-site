@@ -6,6 +6,11 @@
    newsTitle: News
    changeLangRedirect: "/news"
 ---
+# 2022
+
+- ![No Photo](https://imgur.com/a/5mfd0Td) March. ONDER have launched a new joint project with SKM Market Predictor called [Carbon Zero](https://carbonzero.ru/) to help you understand everything related to green energy.
+
+
 
 # 2021
 
