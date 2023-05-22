@@ -18,6 +18,11 @@
             <h3 class="products-items__item-description">
                 {% include typograph.html content=product.description %}
             </h3>
+            {% if product.entry != "" %}
+            <h4 class="products-items__item-entry">
+                {{ product.entry }}
+            </h4>
+            {% endif %}
         </div>
         {% endfor %}
     </div>

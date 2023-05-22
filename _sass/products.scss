@@ -55,6 +55,11 @@
         font: var(--paragraph-font);
         line-height: var(--paragraph-line-height);
       }
+
+      &-entry {
+        font: var(--paragraph-font);
+        font-size: calc(var(--paragraph-font-size) / 1.2);
+      }
     }
   }
 
