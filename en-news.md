@@ -6,6 +6,13 @@
    newsTitle: News
    changeLangRedirect: "/news"
 ---
+# 2022
+
+- ![No Photo](https://imgur.com/gGcuiQZ.jpg) March. ONDER launched a new joint project with SKM Market Predictor called [Carbon Zero](https://carbonzero.ru/) to help you understand everything related to green energy.
+
+- ![No Photo](https://imgur.com/3pThoPw.jpg) February. ONDER has finished EV-stations' control system development for Zelenodolsk Electrotechnical Plant LLC. Mobile app [Non-Stop Power](https://www.youtube.com/watch?v=RoOMyhuYcNU), NSP is already available for Android and IOS applications.
+
+
 
 # 2021
 
