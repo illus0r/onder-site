@@ -105,6 +105,13 @@ p {
     font-weight: normal;
     font-size: var(--h1-font-size);
   }
+
+  &__info {
+    font-family: var(--base-font);
+    font-weight: normal;
+    font-size: calc(var(--h1-font-size)/1.4);
+    margin-bottom: 0.5rem;
+  }
 }
 
 .anchor {
