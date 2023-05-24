@@ -84,7 +84,11 @@ p {
 }
 
 .company-info {
-  margin-top: var(--floor-margin);
+  margin-top: calc(var(--floor-margin) / 3);
+
+  @include m-tablet {
+    margin-top: calc(var(--floor-margin) / 2);
+  }
 
   &__mail {
     max-width: 80%;
@@ -110,7 +114,7 @@ p {
     font-family: var(--base-font);
     font-weight: normal;
     font-size: calc(var(--h1-font-size)/1.4);
-    margin-bottom: 0.5rem;
+    margin-bottom: 4rem;
   }
 }
 
