@@ -1,4 +1,10 @@
 .accr {
+  margin-top: calc(var(--floor-margin) / 4);
+
+  @include m-tablet {
+    margin-top: calc(var(--floor-margin) / 2);
+  }
+
   &__items {
     width: 100%;
     display: flex;
