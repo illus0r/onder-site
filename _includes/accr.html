@@ -1,0 +1,18 @@
+{% assign accr = site.accr | where: "lang", page.lang  %}
+
+
+<section class="main-content__block _margin">
+    <div class="accr__items">
+        {% for ac in accr %}
+        <div class="accr__item">
+            <h4>{{ ac.name }}</h4>
+            {% for item in ac.values %}
+            <div class="accr__item-item">
+                <span class="accr__item-item-name">{{ item.name }}:</span>
+                <span class="accr__item-item-value">{{ item.value }}</span>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</section>

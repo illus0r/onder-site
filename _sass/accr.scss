@@ -1,0 +1,47 @@
+.accr {
+  &__items {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  @include mobile {
+    &__items {
+      flex-direction: column;
+
+      &__item {
+        max-width: 100%;
+      }
+    }
+  }
+
+  &__item {
+    color: var(--main-font-color);
+    font: var(--paragraph-font);
+    display: flex;
+    flex-direction: column;
+
+    flex-basis: 42%;
+    flex-grow: 1;
+    box-sizing: border-box;
+    margin-right: 0;
+    padding: 24px 0;
+
+    h4 {
+      margin-bottom: 8px;
+    }
+
+    &-item {
+      width: 100%;
+
+      &-name {
+        width: 50%;
+        font-weight: 600;
+      }
+
+      &-value {
+        width: 50%;
+      }
+    }
+  }
+}
